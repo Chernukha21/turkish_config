@@ -1,18 +1,18 @@
 {
     "MAIN_PAGE_TITLE": {
-       "SA": "طاب مسائك"
+       "sa": "طاب مسائك"
     },
     "MAIN_PAGE_DESCRIPTION": {
-        "SA": "هذا مشروع تجريبي للمبتدئين"
+        "sa": "هذا مشروع تجريبي للمبتدئين"
     },
     "ABOUT_PAGE_CONTACT_TITLE": {
-        "SA": "أعيش في كييف"
+        "sa": "أعيش في كييف"
     },
     "NAV_MENU_TITLE_ABOUT": {
-        "SA": "صفحة المترجم"
+        "sa": "صفحة المترجم"
     },
     "NAV_MENU_TITLE_MAIN": {
-      "SA": "الصفحة الرئيسية"
+      "sa": "الصفحة الرئيسية"
     },
-    "language": {"value": "SA", "title": "arabian"}
+    "language": {"value": "sa", "title": "arabian"}
 }
